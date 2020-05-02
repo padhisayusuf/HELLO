@@ -1,0 +1,52 @@
+[
+    {   
+        "namaHadits" : "Hadits Menuntut Ilmu", 
+        "tulisanArab" : "طَلَبُ اْلعِلْمْ فَرِثْضَةٌ عَلَى كُلِّ مُسْلِمٍ", 
+        "deskripsi" : "Artinya : Menuntut ilmu adalah kewajiban bagi setiap individu muslim.",
+    }, 
+    {
+        "namaHadits" : "Hadits Sabar", 
+        "tulisanArab" : "قَالَ النَّبِيُّ عَلَيْهِ الصَّلَاةُ وَالسَّلَامُ: {الصَّبْرُ عِنْدَ الصَّدْمَةِ الْأُوْلَى", 
+        "deskripsi" : "Artinya : Sabar itu ketika pertama kali mendapatkan musibah.",
+    }, 
+    {
+        "namaHadits" : "Hadits Munafik", 
+        "tulisanArab" : "ْعَنْ أَبِى هُرَيْرَةَ عَنِ النَّبِىِّ صلى الله عليه وسلم – قَالَ آيَةُ الْمُنَافِقِ ثَلاَثٌ إِذَا حَدَّثَ كَذَبَ ، وَإِذَا وَعَدَ أَخْلَفَ ، وَإِذَا اؤْتُمِنَ خَانَ", 
+        "deskripsi" : "Artinya : Tanda-tanda orang munafik ada tiga: jika berbicara dia berdusta, jika berjanji dia mengingkari, dan jika diberi amanah dia berkhianat "
+    }, 
+    {
+        "namaHadits" : "Hadits Hutang", 
+        "tulisanArab" : "ﺃَﻳُّﻤَﺎ ﺭَﺟُﻞٍ ﻳَﺪَﻳَّﻦُ ﺩَﻳْﻨًﺎ ﻭَﻫُﻮَ ﻣُﺠْﻤِﻊٌ ﺃَﻥْ ﻻَ ﻳُﻮَﻓِّﻴَﻪُ ﺇِﻳَّﺎﻩُ ﻟَﻘِﻰَ ﺍﻟﻠَّﻪَ ﺳَﺎﺭِﻗًﺎ", 
+        "deskripsi" : "Artinya : Siapa saja yang berhutang lalu berniat tidak mau melunasinya, maka dia akan bertemu Allah (pada hari kiamat) dalam status sebagai pencuri."
+    }, 
+    {
+        "namaHadits" : "Hadits Sahabat", 
+        "tulisanArab" : "الْمَرْءُ عَلَى دِينِ خَلِيلِهِ فَلْيَنْظُرْ أَحَدُكُمْ مَنْ يُخَالِلُ", 
+        "deskripsi" : "Artinya : Seseorang akan mencocoki kebiasaan teman karibnya. Oleh karenanya, perhatikanlah siapa yang akan menjadi teman karib kalian."
+    }, 
+    {
+        "namaHadits" : "Hadits Rezeki", 
+        "tulisanArab" : "سُئِلَ رَسُولُ اللهِ n: أَيُّ الْكَسْبِ أَطْيَبُ؟ قَالَ: عَمَلُ الرَّجُلِ بِيَدِه،ِ وَكُلُّ كَسْبٍ مَبْرُورٍ", 
+        "deskripsi" : "Artinya : Rasulullah ditanya: ”Penghasilan apakah yang paling baik?” Beliau menjawab: ”Pekerjaan seseorang dengan tangannya sendiri dan semua penghasilan yang mabrur (diterima di sisi Allah)."
+    }, 
+    {
+        "namaHadits" : "Hadits Ikhlas", 
+        "tulisanArab" : "إِنَّ اللَّهَ لا يَقْبَلُ مِنْ الْعَمَلِ إِلا مَا كَانَ لَهُ خَالِصًا وَابْتُغِيَ بِهِ وَجْهُهُ", 
+        "deskripsi" : "Artinya : Sesungguhnya Allah tidak akan menerima amalan kecuali yang murni hanya untuk-Nya, dan dicari wajah Allah dengan amalan tersebut."
+    }, 
+    {
+        "namaHadits" : "Hadits Kebersihan", 
+        "tulisanArab" : "اَلنَّظَافَةُ مِنَ الْإِيْمَانِ", 
+        "deskripsi" : "Artinya : Kebersihan sebagian dari iman."
+    }, 
+    {
+        "namaHadits" : "Hadits Kematian", 
+        "tulisanArab" : "وَقَالَ عَلَيْهِ السَّلَامُ:: {الْمَوْتُ جِسْرٌ يُوْصِلُ الْحَبِيْبَ إِلَى الْحَبِيْبِ", 
+        "deskripsi" : "Artinya : Kematian itu jembatan yang menghubungkan sang kekasih (orang mukmin) kepada kekasihnya (Allah swt.)"
+    }, 
+    {
+        "namaHadits" : "Hadits Bersyukur", 
+        "tulisanArab" : "‎وَمَنْ لاَيَشْكُرِ النَّاسَ لاَيَشْكُرِ اللهَ", 
+        "deskripsi" : "Artinya : barang siapa yang tidak bersyukur kepada manusia, berarti ia tidak bersyukur kepada Allah."
+    }
+]
